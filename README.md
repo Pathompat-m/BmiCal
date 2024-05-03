@@ -1,4 +1,4 @@
-#  BMI Calculator
+#  BmiCal
 
 ## Overview
 
